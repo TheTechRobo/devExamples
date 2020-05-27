@@ -2,6 +2,10 @@
 
 ## About
 
+**NOTE: devExamples is currently being fixed as the original author did not make it suitable for GitHub Pages.**
+
+**NOTE 2: Transferring to TtRchives.**
+
 **[devExamples.cf](http://devExamples.cf)** is a website with coding examples.
 For every project there is an instruction and some example code.
 Right now there is just Python available
