@@ -4,7 +4,7 @@
 
 **NOTE: devExamples is currently being fixed as the original author did not make it suitable for GitHub Pages.**
 
-**NOTE 2: Transferring to TtRchives.**
+**NOTE 2: Transferred to TtRchives.**
 
 **[devExamples.cf](http://devExamples.cf)** is a website with coding examples.
 For every project there is an instruction and some example code.
